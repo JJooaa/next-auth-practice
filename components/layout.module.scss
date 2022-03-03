@@ -1,0 +1,18 @@
+.nav {
+    max-width: 1000px;
+    height: 50px;
+    background: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    margin: 20px auto;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.main {
+    max-width: 1440px;
+    height: 100%;
+    background: whitesmoke;
+    margin: 0 auto;
+}
